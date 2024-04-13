@@ -1,2 +1,2 @@
 # OptimizerChallenge
-Optimizer CTF challenge MDS
+Optimizer CTF challenge MDS.
